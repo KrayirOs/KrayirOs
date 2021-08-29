@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrOgramMERFARUK
+- 👋 Hi, I’m @PrOgramMER-FARUK
 - 👀 I’m interested in programming.
 - 📫 How to reach me: You can reach me at omerfarukcoskun741@gmail.com .
 
