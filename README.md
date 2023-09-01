@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrOgramMER-FARUK
+- 👋 Hi, I’m @Audaxima
 - 👀 I’m interested in programming.
 - 📫 How to reach me: You can reach me at omerfarukcoskun741@gmail.com .
 
