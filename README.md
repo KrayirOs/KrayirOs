@@ -8,4 +8,4 @@
   [![KrayirOs's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrayirOs&theme=github-dark)](https://github.com/ashish-b/github-readme-activity-graph)
   <br/>
 
-</div>
+</div> 
